@@ -4,7 +4,7 @@
 //
 //  Created by 王蛟 on 2019/11/19.
 //  Copyright © 2019 王蛟. All rights reserved.
-//
+//  北邮大一C语言
 
 #include <stdio.h>
 
